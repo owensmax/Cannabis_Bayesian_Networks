@@ -1,1 +1,1 @@
-# Cannabis_Bayesian_Networks
+This repository contains code for the analyses reported in "Bayesian Causal Network Modeling Suggests Adolescent Cannabis Use Promotes Accelerated Prefrontal Cortical Thinning" available at https://psyarxiv.com/2fzjp/. For question, please contact the corresponding author Max Owens at owensmax03@gmail.com.
